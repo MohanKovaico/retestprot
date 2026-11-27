@@ -1,7 +1,8 @@
 {
   "serializerVersion": 1,
   "languages": [
-    { "code": "de", "default": true }
+    { "code": "de", "default": true },
+    { "code": "id" }
   ],
   "nodes": [
     {
