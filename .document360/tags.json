@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "Audience",
+      "description": "Who the page is written for."
+    },
+    {
+      "name": "Topic",
+      "description": "What the page is about."
+    }
+  ],
+  "tags": [
+    {
+      "uniqueId": "admin",
+      "name": "admin",
+      "description": "Written for someone with project administration rights.",
+      "group": "Audience"
+    },
+    {
+      "uniqueId": "editor",
+      "name": "editor",
+      "description": "Writing and formatting in Editor V3.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "getting-started",
+      "name": "getting-started",
+      "description": "First hour in a new project.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "git",
+      "name": "git",
+      "description": "The repository, branches and commits.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "publishing",
+      "name": "publishing",
+      "description": "Review, approval and getting content to readers.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "readers",
+      "name": "readers",
+      "description": "The knowledge base site, search and feedback.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "structure",
+      "name": "structure",
+      "description": "Categories, navigation and URLs.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "writer",
+      "name": "writer",
+      "description": "Written for someone writing the documentation.",
+      "group": "Audience"
+    }
+  ]
+}

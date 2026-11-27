@@ -1,0 +1,10 @@
+{
+  "groups": [],
+  "labels": [
+    {
+      "uniqueId": "sample-content",
+      "name": "Sample content",
+      "description": "Seeded when the project was created. Safe to edit or delete."
+    }
+  ]
+}
